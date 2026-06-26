@@ -45,11 +45,11 @@ This project combines Data Analysis, Machine Learning, and Power BI to analyze h
 
 ### Dashboard 1
 
-![Dashboard 1](page1.png)
+![Dashboard 1](./Dashboard_Page1.png)
 
 ### Dashboard 2
 
-![Dashboard 2](page2.png)
+![Dashboard 2](./Dashboard_Page2.png)
 
 ---
 
